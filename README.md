@@ -1,4 +1,4 @@
-### Hello, I'm Jaqueline! :heart: <p display='flex'>See more ---><a href='https://jaqueline.malinoski.com.br/'> Portifolio<a></p>
+### Hello, I'm Jaqueline! :heart: <p>See more ---><a href='https://jaqueline.malinoski.com.br/'> Portifolio</a></p>
 
 <div align="center">
   <a href="https://github.com/jaquemalinoski">
