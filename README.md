@@ -1,6 +1,6 @@
 ### Hello, I'm Jaqueline! :heart:
 
-<p>See more ---><p><a href='https://jaqueline.malinoski.com.br/'>Portifolio<a>
+<p>See more ---><a href='https://jaqueline.malinoski.com.br/'>Portifolio<a></p>
 
 <div align="center">
   <a href="https://github.com/jaquemalinoski">
